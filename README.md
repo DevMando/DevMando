@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DevMando
-- 👀 I’m interested in crypto/blockchain, blazer, game development, and german shepherds.
+- 👀 I’m interested in crypto/blockchain, .NET Blazor, game development.
 - 🌱 I’m currently learning Web3.js
 
 <!---
