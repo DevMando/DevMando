@@ -50,11 +50,11 @@
 
   I treat my editor like a cockpit. On any given day you'll find me jumping between:
 
-  🖥️ **Visual Studio** — heavy .NET work, debugging, profiling
-  📝 **VS Code** — quick edits, web projects, extensions for everything
-  🤖 **Claude Code** — AI pair programming from the terminal
-  🧠 **Codex** — rapid prototyping and code generation
-  ⚡ **MandoCode** — because I built my own, so of course I use it
+  - 🖥️ **Visual Studio** — heavy .NET work, debugging, profiling
+  - 📝 **VS Code** — quick edits, web projects, extensions for everything
+  - 🤖 **Claude Code** — AI pair programming from the terminal
+  - 🧠 **Codex** — rapid prototyping and code generation
+  - ⚡ **MandoCode** — because I built my own, so of course I use it - Ollama GO!🦙
 
   The best tool is the one that fits the problem. I use all of them.
 
