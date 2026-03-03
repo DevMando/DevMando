@@ -1,4 +1,5 @@
-# Hey, I'm Mando 👋
+# Hey, I'm Mando 👋 <a href="https://x.com/DevMand0">
+<img src="https://img.shields.io/badge/Follow%20on-X-black?style=flat&logo=x" alt="Follow on X (Twitter) - DevMand0"></a>
 
   Full-stack developer building tools that make development better. Currently focused on **local AI tooling**,
   **.NET/Blazor**, and **terminal-native UX**.
