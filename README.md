@@ -74,10 +74,7 @@
   ---
 
   ## Connect
-
-  [![GitHub](https://img.shields.io/badge/GitHub-DevMando-181717?style=flat&logo=github)](https://github.com/DevM
-  ando)
-
+  <img src="https://img.shields.io/badge/Follow%20on-X-black?style=flat&logo=x" alt="Follow on X (Twitter) - DevMand0"></a>
   ---
 
   <sub>Currently vibing to lofi beats piped through terminal escape codes while an 80B cloud model thinks about
