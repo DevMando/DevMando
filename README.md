@@ -1,5 +1,7 @@
 # Hey, I'm Mando 👋 <a href="https://x.com/DevMand0">
-<img src="https://img.shields.io/badge/Follow%20on-X-black?style=flat&logo=x" alt="Follow on X (Twitter) - DevMand0"></a>
+<a href="https://x.com/DevMand0">
+  <img src="https://img.shields.io/badge/Follow%20on-X-black?style=flat&logo=x" alt="Follow on X (Twitter) - DevMand0">
+</a>
 
   Full-stack developer building tools that make development better. Currently focused on **local AI tooling**,
   **.NET/Blazor**, and **terminal-native UX**.
@@ -74,8 +76,10 @@
   ---
 
   ## Connect
-  <img src="https://img.shields.io/badge/Follow%20on-X-black?style=flat&logo=x" alt="Follow on X (Twitter) - DevMand0"></a>
-  ---
+  <a href="https://x.com/DevMand0">
+  <img src="https://img.shields.io/badge/Follow%20on-X-black?style=flat&logo=x" alt="Follow on X (Twitter) - DevMand0">
+</a>
+  
 
   <sub>Currently vibing to lofi beats piped through terminal escape codes while an 80B cloud model thinks about
   your code.</sub>
