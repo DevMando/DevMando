@@ -6,6 +6,10 @@
     <img src="https://img.shields.io/badge/Connect%20on-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"
   alt="Connect on LinkedIn - developer-mando">
   </a>
+<a href="https://www.instagram.com/mandocode/">
+    <img src="https://img.shields.io/badge/Follow%20on-Instagram-E4405F?style=flat&logo=instagram&logoColor=white"
+  alt="Follow on Instagram - mandocode">
+  </a>
 
   Full-stack developer building tools that make development better. Currently focused on **local AI tooling**,
   **.NET/Blazor**, and **terminal-native UX**.
@@ -38,11 +42,23 @@
   - Ctrl+C cancellation support for long-running AI requests
   - Retry resilience for streaming chat responses
 
+  ### 🖥️🐺 [MandoCode Desktop](https://github.com/DevMando/MandoCode.Desktop)
+  Just shipped: the same MandoCode engine as a native Windows app — WinUI 3 over the identical
+  Ollama + Semantic Kernel core, not a rewrite. Same brains, different face.
+
+  **Key features I've shipped:**
+  - Agent tabs with Split view — up to four agents working side by side on different folders
+  - A real integrated terminal (ConPTY + xterm.js), not a fake console
+  - Git-aware file explorer with inline diffs, dirty badges, and one-click commit
+  - Context snapshots and session history — closing an agent archives it, never deletes it
+  - A notes jot pad with optional AI assist that has zero file-write tools of its own
+  - 16 built-in themes, including a flickering CRT tube and a period-correct Windows 98 desktop
+
   ---
 
   ## Tech I Work With
 
-  **Day-to-day:** C#, .NET 8, Blazor, Semantic Kernel, Spectre.Console, ANSI/OSC escape codes
+  **Day-to-day:** C#, .NET 8/10, Blazor, WinUI 3, Semantic Kernel, EF Core, SQL, JS, Python, NodeJS
 
   **AI stack:** Ollama (local + cloud models), open-weight LLMs, function calling / tool use
 
@@ -72,8 +88,10 @@
   I believe the best developer tools are the ones that stay out of your way. MandoCode exists because I wanted an
    AI assistant that:
   - Works with any model — local weights on your GPU or cloud models through Ollama, your choice
-  - Lives in the terminal — no browser tabs, no electron apps, no context switching
-  - Feels native — rich diffs, clickable paths, taskbar progress, music — all through terminal escape codes
+  - Lives where you want it — terminal-native via the CLI, or a real native Windows app with
+    MandoCode Desktop. Either way: no browser tabs, no Electron, no context switching
+  - Feels native — rich diffs, clickable paths, taskbar progress, music — all through terminal
+    escape codes in the CLI, native WinUI everywhere in Desktop
 
   If that sounds interesting, check out the repo, pull it down, and break things. PRs welcome.
 
@@ -82,6 +100,9 @@
   ## Connect
   <a href="https://x.com/DevMand0">
   <img src="https://img.shields.io/badge/Follow%20on-X-black?style=flat&logo=x" alt="Follow on X (Twitter) - DevMand0">
+</a>
+<a href="https://www.instagram.com/mandocode/">
+  <img src="https://img.shields.io/badge/Follow%20on-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Follow on Instagram - mandocode">
 </a>
   
 
