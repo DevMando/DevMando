@@ -19,9 +19,10 @@
   ## What I'm Building
 
   ### 🤖🐺 [MandoCode](https://github.com/DevMando/MandoCode)
-  An open-source AI coding assistant that runs entirely in your terminal — no subscriptions, no vendor lock-in.
-  Built with .NET 8, Blazor, and Semantic Kernel, powered by Ollama with support for both **local models** and
-  **cloud-routed models** (like `kimi-k2.5:cloud`, `minimax-m2.5:cloud`, `qwen3-coder:cloud`).
+  An open-source AI coding assistant that runs entirely in your terminal — built on open-weight models,
+  never locked to one vendor's closed API. Built with .NET 8, Blazor, and Semantic Kernel, powered by
+  Ollama with support for both **local models** and **cloud-routed models** (like `kimi-k2.5:cloud`,
+  `minimax-m2.5:cloud`, `qwen3-coder:cloud`).
 
   Run it fully offline with local weights, or tap into cloud models through Ollama's unified API — same interface
    either way.
